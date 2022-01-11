@@ -1,0 +1,16 @@
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.csproj.AssemblyReference.cache
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.Properties.Resources.resources
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.csproj.GenerateResource.cache
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.csproj.CoreCompileInputs.cache
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\bin\Debug\C968Project.exe.config
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\bin\Debug\C968Project.exe
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\bin\Debug\C968Project.pdb
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.MainScreen.resources
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.exe
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.pdb
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.AddPartScreen.resources
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.ModifyPartScreen.resources
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.AddProductScreen.resources
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.ModifyProductScreen.resources
+C:\Users\cmfai\Desktop\school\c968\C968Project\C968Project\obj\Debug\C968Project.splashScreen.resources
